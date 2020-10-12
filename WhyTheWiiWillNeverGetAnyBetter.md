@@ -2,11 +2,11 @@
 
 Meanwhile, the Wii got all of:
 
- 1. Things, such as copying saves to SD, which should have been there from the start
- 1. Support for new features for new games, with zero improvements for any games already released (USB keyboards, WiiSpeak, etc).
- 1. Updates to built-in channels (Wii Shop Channel, etc)
- 1. Wii menu or messageboard tweaks, like moving channels or, get this, a clock.
- 1. Security updates, or their failed attempts at stopping homebrew.
+1. Things, such as copying saves to SD, which should have been there from the start
+1. Support for new features for new games, with zero improvements for any games already released (USB keyboards, WiiSpeak, etc).
+1. Updates to built-in channels (Wii Shop Channel, etc)
+1. Wii menu or messageboard tweaks, like moving channels or, get this, a clock.
+1. Security updates, or their failed attempts at stopping homebrew.
 
 This isn’t a coincidence. As it turns out, Nintendo chose not to have any operating system or common code at all running on the main processor. When you run a game, everything that shows up on your screen, ever, is being loaded from that spinning polycarbonate disc. And there are no mechanisms for anything else to run on that processor: no update system, no Home Menu updates, nothing.
 
@@ -14,9 +14,9 @@ Now, the Wii *does* have software known as "IOS" that has many drivers for perip
 
 As a specific example, let’s look at the much-discussed future ability to load channels from an SD card (seriously, what the heck were they thinking with 512MB of internal storage and no sane infrastructure to ever expand it externally?) There are three possible solutions to get this to work:
 
-    Add new code to old versions of IOS, disabling any SD card access for titles that launch from SD
-    Add new code to old versions of IOS and send out updates to games that use SD cards, to replace the in-game code with a call to IOS code
-    Just fake it and transparently copy titles to the Wii system memory when you want to launch them, causing more wear and tear, longer launching times, and ruining the point of copying to the SD card (to free up space)
+1. Add new code to old versions of IOS, disabling any SD card access for titles that launch from SD
+1. Add new code to old versions of IOS and send out updates to games that use SD cards, to replace the in-game code with a call to IOS code
+1. Just fake it and transparently copy titles to the Wii system memory when you want to launch them, causing more wear and tear, longer launching times, and ruining the point of copying to the SD card (to free up space)
 
 Chances are they’re going to go for number 3, because the other two are a lot of work. Even though this could have been avoided had they created a smarter system.
 
