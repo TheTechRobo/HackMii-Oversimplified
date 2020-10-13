@@ -1,10 +1,10 @@
 <div id="content">
  
- # Why the Wii will never get any better
+<h1>Why the Wii will never get any better</h1>
  
- </div>
+</div>
 
-If you look at lists of software updates for the PS3 or the XBox 360, you’ll find things such as PS3 update 2.40, which made XMB available in-game, or XBox 360 update 2.0.7357.0, which added the New Xbox Experience, among many smaller updates are stability fixes, new peripheral support, and new features like in-game screenshots. A large amount of the features affect or improve the in-game experience.
+If you look at lists of software updates for the PS3 or the Xbox 360, you’ll find things such as PS3 update 2.40, which made XMB available in-game, or XBox 360 update 2.0.7357.0, which added the New Xbox Experience, among many smaller updates are stability fixes, new peripheral support, and new features like in-game screenshots. A large amount of the features affect or improve the in-game experience.
 
 Meanwhile, the Wii got all of:
 
